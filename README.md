@@ -2,6 +2,9 @@
 
 A Financial Operations (FinOps) analytics project that audits multi-month AWS EC2 compute spend, identifies idle "zombie" infrastructure, detects cost anomalies, and surfaces concrete rightsizing and Savings Plan recommendations.
 
+<img width="945" height="435" alt="1" src="https://github.com/user-attachments/assets/499cc6a1-8666-44f0-8e5a-2c51106b067a" />
+<img width="945" height="435" alt="2" src="https://github.com/user-attachments/assets/d5294e14-c72a-4a7f-ac7e-ea1aba5fe350" />
+
 ---
 
 ## 🎯 The Business Problem
